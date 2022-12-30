@@ -3,7 +3,7 @@
 nvm use 14.8.0
 ```
 
-[package.json]
+[package.json] had issue with openssl when trying to >npm run serve; adding this fixes it. 
 ```
 "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve --host localhost --port 8080",
 ```
