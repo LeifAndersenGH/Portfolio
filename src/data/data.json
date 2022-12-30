@@ -29,7 +29,7 @@
         "value": "A.A.S. Marketing"
         },
         {"name": "Goal",
-          "value": "Work with developers to make better products and tools"
+          "value": "Work with developers to make software more usable"
         }
       ]
     },
@@ -90,24 +90,24 @@
   "projects": [
     {
       "title": "Predicting Used Car Prices",
-      "description": "S1E8",
-      "image": "peacefulvalley.png",
+      "description": "Pandas, Seaborn, Sklearn",
+      "image": "usedcar.png",
       "link": "https://github.com/LeifAndersenGH/Linear-Regression-ITCS3162-GROUP",
       "source": "https://www.twoinchbrush.com/painting/peaceful-valley",
       "filter": "Data Analysis"
         },
     {
       "title": "Predicting Resort Closures",
-      "description": "S2E1",
-      "image": "meadowlake.png",
+      "description": "Pandas, Seaborn, Sklearn ",
+      "image": "skiresort.png",
       "link": "https://github.com/LeifAndersenGH/Predicting-Ski-Resort-Closures",
       "source": "https://www.twoinchbrush.com/painting/meadow-lake",
       "filter": "Data Analysis"
     },
     {
-      "title": "Visualizing Inflation",
-      "description": "S2E13",
-      "image": "finalgrace.png",
+      "title": "NFL Live Odds",
+      "description": "Live Betting Odds Scraper",
+      "image": "nfl.png",
       "link": "https://github.com/LeifAndersenGH/Inflation-Visualization",
       "source": "https://www.twoinchbrush.com/painting/final-grace",
       "filter": "Data Analysis"
@@ -115,23 +115,23 @@
     {
       "title": "WataMatic",
       "description": "Automated Plant Watering System",
-      "image": "purplesplendor.png",
+      "image": "watamatic.png",
       "link": "https://github.com/LeifAndersenGH/Wata-Matic",
       "source": "https://www.twoinchbrush.com/painting/purple-splendor",
       "filter": "Tools"
     },
     {
       "title": "Akash Staking",
-      "description": "Selenium Automation Tool",
-      "image": "winterstillness.png",
+      "description": "Selenium Tool",
+      "image": "akash.png",
       "link": "https://github.com/LeifAndersenGH/AkashStaking",
-      "source": "https://www.twoinchbrush.com/painting/winter-stillness",
+      "source": "https://www.crunchbase.com/organization/akash-network",
       "filter": "Tools"
     },
     {
       "title": "Keplr Bot",
       "description": "Selenium Automation Tool",
-      "image": "greywinter.png",
+      "image": "keplr.png",
       "link": "https://github.com/LeifAndersenGH/KeplrBot",
       "source": "https://www.twoinchbrush.com/painting/grey-winter",
       "filter": "Tools"
@@ -139,23 +139,23 @@
     {
       "title": "FitForm",
       "description": "Design Research Report",
-      "image": "bubblingstream.png",
+      "image": "fitform.png",
       "link": "https://docs.google.com/document/d/1irP3DdtXt_WymRtRaHxc8sLf8btGbt4zuCXCYy3LRdo/edit?usp=sharing",
       "source": "https://www.twoinchbrush.com/painting/bubbling-stream",
       "filter": "Design Research"
     },
     {
       "title": "WataMatic Frontend",
-      "description": "S6E13",
-      "image": "blazeofcolor.png",
-      "link": "https://github.com/LeifAndersenGH/Wata-Matic/blob/main/src/App.vue",
+      "description": "Single Page Frontend",
+      "image": "watamaticfe.png",
+      "link": "https://docs.google.com/presentation/d/1UOCbRn9Rmkdeux6LsxNOfAbWdge_R0AqJm1ac3D5PXM/edit?usp=sharing",
       "source": "https://www.twoinchbrush.com/painting/blaze-of-color",
       "filter": "Design Research"
     },
     {
       "title": "Design Report",
       "description": "Report from sophmore year",
-      "image": "nightlight.png",
+      "image": "marian.png",
       "link": "https://docs.google.com/document/d/14T0CiKW_1k9_SsHYPW32kzhoy84VHqoTkkDgWDwj1ZA/edit?usp=sharing",
       "source": "https://www.twoinchbrush.com/painting/night-light",
       "filter": "Design Research"
@@ -164,7 +164,7 @@
   ]
 },
     "contact":{
-      "text": "my info.",
+      "text": "",
       "formTitle": "Send Me A Message",
       "formEndPoint": "",
       "city": "Charlotte, North Carolina",
@@ -192,7 +192,7 @@
         ]
       },
   "footer": {
-    "copyrightText": "All Rights Reserved."
+    "copyrightText": ""
   }
 
 }
