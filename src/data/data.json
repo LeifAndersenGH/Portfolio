@@ -1,14 +1,12 @@
 {
   "main": {
     "name": {
-        "first": "Bob",
-        "last": "Ross"
+        "first": "Leif",
+        "last": "Andersen"
     },
     "logo": true,
     "titles": [
-        "Famous Painter.",
-        "Television Host.",
-        "America's Sweetheart."
+        "Welcom to my portfolio."
     ],
     "headings": {
       "about": "About",
@@ -18,176 +16,177 @@
     }
   },
     "about": {
-      "bio": "I discovered oil painting while I was enlisted in the U.S. Air Force in Alaska in the early 1960s. I studied the 'wet-on-wet' technique, also known as 'Alla Prima', used by other great painters such as Rembrandt & Monet. This allowed me to produce complete paintings in less than an hour. I then became an art instructor, creating my iconic image and eventually teaching a TV audience of millions on the TV show The Joy of Painting.",
-      "tagline": "We don't make mistakes, just happy little accidents",
+      "bio": "I graduated high school in Anchorage Alaska in 2013. After working for a period of time, I made the decision to relocate to North Carolina in 2017 to pursue a degree in computer science. Upon completing my Associate's degree in marketing at Central Piedmont Community College in Charlotte, I transferred to UNC Charlotte and graduated in December 2022 with a Computer Science degree in Human-Computer Interaction. Throughout my studies and work experience, I have developed a strong passion for improving the usability, accessibility, and the overall design of interfaces and applications.",
+      "tagline": "I am an HCI major with the goal of making user interface less annoying",
       "facts": [
         {"name": "Hometown",
-        "value": "Orlando, FL"
+        "value": "New York, New York"
         },
-        {"name": "Painting Technique",
-        "value": "Alla Prima"
+        {"name": "UNC Charlotte",
+        "value": "B.A. Computer Science - HCI"
         },
-        {"name": "# of Paintings",
-        "value": "1,143"
+        {"name": "Central Piedmont CC",
+        "value": "A.A.S. Marketing"
         },
-        {"name": "Sun Sign",
-          "value": "Scorpio"
+        {"name": "Goal",
+          "value": "Work with developers to make better products and tools"
         }
       ]
     },
     "skills": {
-    "defaultCategory": "Painting",
+    "defaultCategory": "Design",
     
     "categories": [
       {
-        "category": "Painting",
-        "subtitle": "My true passion!",
+        "category": "Design",
+        "subtitle": "",
         "faClass": "fas fa-paint-brush",        
         "skillList":[
           {
-            "name": "Oil Painting",
+            "name": "Prototyping",
             "level": "100"
           },
           {
-            "name": "Watercolor",
-            "level": "90"
+            "name": "Design Research",
+            "level": "100"
           },
           
           {
-            "name": "Acrylic",
-            "level": "70"
+            "name": "Data Analytics",
+            "level": "100"
           },
           {
-            "name": "Pastels",
-            "level": "60"
+            "name": "Front-End Developing",
+            "level": "100"
           }
         ]
       },
 
       {
-        "category": "Teaching",
+        "category": "Marketing",
         "subtitle": "",
         "faClass": "fas fa-chalkboard-teacher",        
         "skillList":[
           {
-            "name": "Communication",
-            "level": "90"
+            "name": "Market Research/Analysis",
+            "level": "100"
           },
           
           {
-            "name": "Patience",
+            "name": "Sales",
             "level": "100"
           },
           {
-            "name": "Leadership",
-            "level": "90"
+            "name": "Business Operations",
+            "level": "100"
           }
+          
         ]
       }
     ]
   },
 "portfolio": {
-  "defaultFilter": "mountains",
+  "defaultFilter": "Tools",
   "projects": [
     {
-      "title": "Peaceful Valley",
+      "title": "Predicting Used Car Prices",
       "description": "S1E8",
       "image": "peacefulvalley.png",
-      "link": "https://www.twoinchbrush.com/painting/peaceful-valley",
+      "link": "https://github.com/LeifAndersenGH/Linear-Regression-ITCS3162-GROUP",
       "source": "https://www.twoinchbrush.com/painting/peaceful-valley",
-      "filter": "mountains"
+      "filter": "Data Analysis"
         },
     {
-      "title": "Meadow Lake",
+      "title": "Predicting Resort Closures",
       "description": "S2E1",
       "image": "meadowlake.png",
-      "link": "https://www.twoinchbrush.com/painting/meadow-lake",
+      "link": "https://github.com/LeifAndersenGH/Predicting-Ski-Resort-Closures",
       "source": "https://www.twoinchbrush.com/painting/meadow-lake",
-      "filter": "mountains"
+      "filter": "Data Analysis"
     },
     {
-      "title": "Final Grace",
+      "title": "Visualizing Inflation",
       "description": "S2E13",
       "image": "finalgrace.png",
-      "link": "https://www.twoinchbrush.com/painting/final-grace",
+      "link": "https://github.com/LeifAndersenGH/Inflation-Visualization",
       "source": "https://www.twoinchbrush.com/painting/final-grace",
-      "filter": "mountains"
+      "filter": "Data Analysis"
     },
     {
-      "title": "Purple Splendor",
-      "description": "S4E1",
+      "title": "WataMatic",
+      "description": "Automated Plant Watering System",
       "image": "purplesplendor.png",
-      "link": "https://www.twoinchbrush.com/painting/purple-splendor",
+      "link": "https://github.com/LeifAndersenGH/Wata-Matic",
       "source": "https://www.twoinchbrush.com/painting/purple-splendor",
-      "filter": "snow"
+      "filter": "Tools"
     },
     {
-      "title": "Winter Stillness",
-      "description": "S5E4",
+      "title": "Akash Staking",
+      "description": "Selenium Automation Tool",
       "image": "winterstillness.png",
-      "link": "https://www.twoinchbrush.com/painting/winter-stillness",
+      "link": "https://github.com/LeifAndersenGH/AkashStaking",
       "source": "https://www.twoinchbrush.com/painting/winter-stillness",
-      "filter": "snow"
+      "filter": "Tools"
     },
     {
-      "title": "Grey Winter",
-      "description": "S7E11",
+      "title": "Keplr Bot",
+      "description": "Selenium Automation Tool",
       "image": "greywinter.png",
-      "link": "https://www.twoinchbrush.com/painting/grey-winter",
+      "link": "https://github.com/LeifAndersenGH/KeplrBot",
       "source": "https://www.twoinchbrush.com/painting/grey-winter",
-      "filter": "snow"
+      "filter": "Tools"
     },
     {
-      "title": "Bubbling Stream",
-      "description": "S3E3",
+      "title": "FitForm",
+      "description": "Design Research Report",
       "image": "bubblingstream.png",
-      "link": "https://www.twoinchbrush.com/painting/bubbling-stream",
+      "link": "https://docs.google.com/document/d/1irP3DdtXt_WymRtRaHxc8sLf8btGbt4zuCXCYy3LRdo/edit?usp=sharing",
       "source": "https://www.twoinchbrush.com/painting/bubbling-stream",
-      "filter": "water"
+      "filter": "Design Research"
     },
     {
-      "title": "Blaze of Color",
+      "title": "WataMatic Frontend",
       "description": "S6E13",
       "image": "blazeofcolor.png",
-      "link": "https://www.twoinchbrush.com/painting/blaze-of-color",
+      "link": "https://github.com/LeifAndersenGH/Wata-Matic/blob/main/src/App.vue",
       "source": "https://www.twoinchbrush.com/painting/blaze-of-color",
-      "filter": "water"
+      "filter": "Design Research"
     },
     {
-      "title": "Night Light",
-      "description": "S3E8",
+      "title": "Design Report",
+      "description": "Report from sophmore year",
       "image": "nightlight.png",
-      "link": "https://www.twoinchbrush.com/painting/night-light",
+      "link": "https://docs.google.com/document/d/14T0CiKW_1k9_SsHYPW32kzhoy84VHqoTkkDgWDwj1ZA/edit?usp=sharing",
       "source": "https://www.twoinchbrush.com/painting/night-light",
-      "filter": "water"
+      "filter": "Design Research"
     }
 
   ]
 },
     "contact":{
-      "text": "It will be pretty hard to reach me, probably.",
+      "text": "my info.",
       "formTitle": "Send Me A Message",
       "formEndPoint": "",
-      "city": "Orlando, Florida",
-      "email": "info@bobross.com",
-      "phone": "1-800-BOB-ROSS",
-      "resumeLink": "https://www.twoinchbrush.com/all-paintings",
+      "city": "Charlotte, North Carolina",
+      "email": "andersenleif.k@gmail.com",
+      "phone": "425-512-1469",
+      "resumeLink": "https://docs.google.com/document/d/1FmWAWLo8UdUlUAnnpuJRslrNTRp4mj7_/edit?usp=sharing&ouid=114647607043276798746&rtpof=true&sd=true",
       "form": true,
       
       "social": [
           {
             "name": "twitter",
-            "url": "https://twitter.com/bobrossofficial",
+            "url": "https://twitter.com/",
             "faClass": "fab fa-twitter"
           },
           {
             "name": "facebook",
-            "url": "https://www.facebook.com/TheJoyofPaintingWithBobRoss/",
+            "url": "https://www.facebook.com/",
             "faClass": "fab fa-facebook-f"
           },
           {
             "name": "instagram",
-            "url": "https://www.instagram.com/bobross_thejoyofpainting/",
+            "url": "https://www.instagram.com/",
             "faClass": "fab fa-instagram"
           }
         ]
