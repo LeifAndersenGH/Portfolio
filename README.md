@@ -1,3 +1,31 @@
+[version]
+```
+nvm use 14.8.0
+```
+
+[package.json]
+```
+"serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve --host localhost --port 8080",
+```
+
+[vue.config.js]
+ * adding this enables hot reload, ignoring node_modules increases hot relaod speed
+```
+module.exports = {
+  configureWebpack: {
+    devServer: {
+      watchOptions: {
+        poll: true,
+        ignored: /node_modules/
+      }
+    }
+  },
+}
+  ```
+
+
+
+
 # Portfolio Template 🚀
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
