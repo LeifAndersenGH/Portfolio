@@ -89,6 +89,14 @@
   "defaultFilter": "Tools",
   "projects": [
     {
+      "title": "NFL Live Odds",
+      "description": "Live Betting Odds Scraper",
+      "image": "nfl.png",
+      "link": "https://github.com/LeifAndersenGH/Inflation-Visualization",
+      "source": "https://github.com/LeifAndersenGH/Inflation-Visualization",
+      "filter": "Data Analysis"
+    },
+    {
       "title": "Predicting Used Car Prices",
       "description": "Pandas, Seaborn, Sklearn",
       "image": "usedcar.png",
@@ -104,14 +112,7 @@
       "source": "https://github.com/LeifAndersenGH/Predicting-Ski-Resort-Closures",
       "filter": "Data Analysis"
     },
-    {
-      "title": "NFL Live Odds",
-      "description": "Live Betting Odds Scraper",
-      "image": "nfl.png",
-      "link": "https://github.com/LeifAndersenGH/Inflation-Visualization",
-      "source": "https://github.com/LeifAndersenGH/Inflation-Visualization",
-      "filter": "Data Analysis"
-    },
+   
     {
       "title": "WataMatic",
       "description": "Automated Plant Watering System",
@@ -121,11 +122,11 @@
       "filter": "Tools"
     },
     {
-      "title": "Akash Staking",
-      "description": "Selenium Tool",
-      "image": "akash.png",
-      "link": "https://github.com/LeifAndersenGH/AkashStaking",
-      "source": "https://github.com/LeifAndersenGH/AkashStaking",
+      "title": "FitForm Figma",
+      "description": "Figma Prototype",
+      "image": "figma.png",
+      "link": "https://drive.google.com/file/d/1ymsoaej6g4khkj2LN2gCbQPpu4dBHjAS/view?usp=sharing",
+      "source": "https://drive.google.com/file/d/1ymsoaej6g4khkj2LN2gCbQPpu4dBHjAS/view?usp=sharing",
       "filter": "Tools"
     },
     {
