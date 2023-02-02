@@ -16,8 +16,8 @@
     }
   },
     "about": {
-      "bio": "I graduated high school in Anchorage Alaska in 2013. After working for a period of time, I made the decision to relocate to North Carolina in 2017 to pursue a degree in computer science. Upon completing my Associate's degree in marketing at Central Piedmont Community College in Charlotte, I transferred to UNC Charlotte and graduated in December 2022 with a Computer Science degree in Human-Computer Interaction. Throughout my studies and work experience, I have developed a strong passion for improving the usability, accessibility, and the overall design of interfaces and applications.",
-      "tagline": "I am an HCI major with the goal of making user interface less annoying",
+      "bio": "I graduated high school in Anchorage Alaska in 2013. After working for a period of time, I made the decision to relocate to North Carolina in 2017 to pursue a degree in computer science. Upon completing my Associate's degree in marketing at Central Piedmont Community College in Charlotte, I transferred to UNC Charlotte and graduated in December 2022 with a COMPSCI degree in Human-Computer Interaction. Improving the usability, accessibility, and the overall design of interfaces and applications.",
+      "tagline": "",
       "facts": [
         {"name": "Hometown",
         "value": "New York, New York"
@@ -122,14 +122,6 @@
       "filter": "Tools"
     },
     {
-      "title": "FitForm Figma",
-      "description": "Figma Prototype",
-      "image": "figma.png",
-      "link": "https://drive.google.com/file/d/1ymsoaej6g4khkj2LN2gCbQPpu4dBHjAS/view?usp=sharing",
-      "source": "https://drive.google.com/file/d/1ymsoaej6g4khkj2LN2gCbQPpu4dBHjAS/view?usp=sharing",
-      "filter": "Tools"
-    },
-    {
       "title": "Keplr Bot",
       "description": "Selenium Automation Tool",
       "image": "keplr.png",
@@ -151,14 +143,6 @@
       "image": "watamaticfe.png",
       "link": "https://docs.google.com/presentation/d/1UOCbRn9Rmkdeux6LsxNOfAbWdge_R0AqJm1ac3D5PXM/edit?usp=sharing",
       "source": "https://docs.google.com/presentation/d/1UOCbRn9Rmkdeux6LsxNOfAbWdge_R0AqJm1ac3D5PXM/edit?usp=sharing",
-      "filter": "Design Research"
-    },
-    {
-      "title": "Design Report",
-      "description": "Report from sophmore year",
-      "image": "marian.png",
-      "link": "https://docs.google.com/document/d/14T0CiKW_1k9_SsHYPW32kzhoy84VHqoTkkDgWDwj1ZA/edit?usp=sharing",
-      "source": "https://docs.google.com/document/d/14T0CiKW_1k9_SsHYPW32kzhoy84VHqoTkkDgWDwj1ZA/edit?usp=sharing",
       "filter": "Design Research"
     }
 
