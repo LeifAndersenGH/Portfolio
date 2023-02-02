@@ -1,15 +1,14 @@
 {
-  "name": "Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve --host localhost --port 8080",
-   
-
+    "serve": "vue-cli-service serve --host localhost --port 8080",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css",
-    "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot"
+    "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
+    "start": "node server.js"
   },
   "dependencies": {
     "@babel/core": "^7.12.3",
@@ -17,10 +16,12 @@
     "babel-loader": "^8.2.1",
     "core-js": "^3.6.5",
     "eslint-loader": "2.1.2",
+    "express": "^4.18.2",
     "jquery": "^3.5.1",
     "netlify-cli": "^2.69.1",
     "node-sass": "^5.0.0",
     "sass-loader": "^10.1.0",
+    "serve-static": "^1.15.0",
     "typewriter-effect": "^2.13.1",
     "vue": "^2.6.11"
   },
@@ -32,6 +33,9 @@
     "eslint": ">=1.6.0 <6.0.0",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
+  },
+  "engines": {
+    "node": "14.8.0"
   },
   "eslintConfig": {
     "root": true,
