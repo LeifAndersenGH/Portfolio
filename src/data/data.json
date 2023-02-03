@@ -19,8 +19,11 @@
       "bio": "I graduated high school in Anchorage Alaska in 2013. After working for a period of time, I made the decision to relocate to North Carolina in 2017 to pursue a degree in computer science. Upon completing my Associate's degree in marketing at Central Piedmont Community College in Charlotte, I transferred to UNC Charlotte and graduated in December 2022 with a COMPSCI degree in Human-Computer Interaction. Improving the usability, accessibility, and the overall design of interfaces and applications.",
       "tagline": "",
       "facts": [
-        {"name": "Hometown",
+        {"name": "Born:",
         "value": "New York, New York"
+        },
+        {"name": "Hometown(s)",
+        "value": "Anchorage, AK | Cape Cod, MA | Snohomish, WA | Alameda, CA | Newport News, VA"
         },
         {"name": "UNC Charlotte",
         "value": "B.A. Computer Science - HCI"
